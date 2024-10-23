@@ -2,7 +2,9 @@
 # Elisabeth 23/10/24
 Mi primer commint
 
-#modificaciones en la rama
+
+#commint de prueba.
+
 
 # que info que tiene que tener 
 Que hace el proyecto.
