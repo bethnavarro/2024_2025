@@ -2,7 +2,7 @@
 # Elisabeth 23/10/24
 Mi primer commint
 
-modificaciones en la rama
+#modificaciones en la rama
 
 # que info que tiene que tener 
 Que hace el proyecto.
