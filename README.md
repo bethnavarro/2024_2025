@@ -2,6 +2,8 @@
 # Elisabeth 23/10/24
 Mi primer commint
 
+#commint de prueba.
+
 # que info que tiene que tener 
 Que hace el proyecto.
 Por qué el proyecto es util.
