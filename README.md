@@ -1,8 +1,8 @@
 #2024_2025
 # Elisabeth 23/10/24
-Mi primer commint
+Mi primer commit
 
-#commint de prueba.
+#comint de prueba.
 
 # que info que tiene que tener 
 Que hace el proyecto.
